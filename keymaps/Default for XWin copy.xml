@@ -19,13 +19,16 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="ContextHelp" />
   <action id="CopyElement" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="EditorSelectWord" />
-  <action id="FindInPath" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
@@ -49,11 +52,17 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
     <keyboard-shortcut first-keystroke="shift ctrl l" />
@@ -69,7 +78,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="Resume">
-    <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="SaveAll">
@@ -103,5 +111,4 @@
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
-  <action id="Vcs.Push" />
 </keymap>
