@@ -1,0 +1,10 @@
+<templateSet group="user">
+  <template name="srvcrun" value="return run(&quot;${}&quot;,getImplemntor()::,request)" description="" toReformat="false" toShortenFQNames="true" deactivated="true" />
+  <template name="basicscpostaction" value="return BasicSCDocumentPostActions.$methodname$($args$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="methodname" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="args" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

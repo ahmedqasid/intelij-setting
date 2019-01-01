@@ -1,0 +1,297 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="ArquillianClassEnabled" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="ArquillianDeploymentAbsent" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="ArquillianDeploymentReturnType" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="ArquillianDeploymentSignature" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="ArquillianTooManyDeployment" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="ConflictingExtensionProperty" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="ConvertToStringTemplate" enabled="false" level="INFO" enabled_by_default="false" />
+          <inspection_tool class="DeprecatedCallableAddReplaceWith" enabled="false" level="INFO" enabled_by_default="false" />
+          <inspection_tool class="EjbClassBasicInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="EjbClassWarningsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="EjbDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="EjbEntityClassInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="EjbEntityHomeInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="EjbEntityInterfaceInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="EjbEnvironmentInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="EjbInterceptorInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="EjbInterceptorWarningsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="EjbInterfaceMethodInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="EjbInterfaceSignatureInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="EjbProhibitedPackageUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="EjbQlInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="EjbRemoteRequirementsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="EjbSessionHomeInterfaceInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="EjbStaticAccessInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="EjbThisExpressionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="EqualsOrHashCode" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="IfNullToElvis" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="IfThenToElvis" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="IfThenToSafeAccess" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="IntroduceWhenSubject" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="JavaeeApplicationDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="JpaAttributeMemberSignatureInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="JpaAttributeTypeInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="JpaConfigDomFacetInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="JpaDataSourceORMDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="JpaDataSourceORMInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="JpaDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="JpaEntityListenerInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="JpaEntityListenerWarningsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="JpaMissingIdInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="JpaModelReferenceInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="JpaORMDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="JpaObjectClassSignatureInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="JpaQlInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="JpaQueryApiInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="JpdlModelInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="JsfJamExtendsClassInconsistencyInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="KDocUnresolvedReference" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="KotlinDeprecation" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="KotlinInvalidBundleOrProperty" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="KotlinUnusedImport" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="ManagedBeanClassInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="MimeType" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="MissedExecutable" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="ObjectLiteralToLambda" enabled="false" level="INFO" enabled_by_default="false" />
+          <inspection_tool class="OverridingDeprecatedMember" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="PackageDirectoryMismatch" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="PageflowModelInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="PagesModelInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="RedundantSamConstructor" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="RedundantVisibilityModifier" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="RemoveCurlyBracesFromTemplate" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="RemoveExplicitSuperQualifier" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="RemoveExplicitTypeArguments" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="RemoveForLoopIndices" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="ReplaceGetOrSet" enabled="false" level="INFO" enabled_by_default="false" />
+          <inspection_tool class="ReplaceWithOperatorAssignment" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="SeamAnnotationIncorrectSignatureInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="SeamAnnotationsInconsistencyInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="SeamBijectionIllegalScopeParameterInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="SeamBijectionTypeMismatchInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="SeamBijectionUndefinedContextVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="SeamDomModelInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="SeamDuplicateComponentsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="SeamIllegalComponentScopeInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="SeamJamComponentInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="ServletWithoutMappingInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="SimplifiableIfStatement" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="SimplifyAssertNotNull" enabled="false" level="INFO" enabled_by_default="false" />
+          <inspection_tool class="SimplifyBooleanWithConstants" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="SimplifyFor" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="SimplifyNegatedBinaryExpression" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="SynchronizationOnLocalVariableOrMethodParameter" enabled="false" level="WARNING" enabled_by_default="false">
+            <option name="reportLocalVariables" value="true" />
+            <option name="reportMethodParameters" value="true" />
+          </inspection_tool>
+          <inspection_tool class="SynchronizeOnNonFinalField" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="UnresolvedPropertyKey" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="UnusedReceiverParameter" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="UnusedSymbol" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="UsePropertyAccessSyntax" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="WebProperties" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="WebWarnings" enabled="false" level="WARNING" enabled_by_default="false" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Abstraction issuesJava</id>
+              </State>
+              <State>
+                <id>ArquillianJava</id>
+              </State>
+              <State>
+                <id>Assignment issuesJava</id>
+              </State>
+              <State>
+                <id>Bitwise operation issuesJava</id>
+              </State>
+              <State>
+                <id>Class metricsJava</id>
+              </State>
+              <State>
+                <id>Compiler issuesJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java EE issues</id>
+              </State>
+              <State>
+                <id>JavaFX</id>
+              </State>
+              <State>
+                <id>Language Injection</id>
+              </State>
+              <State>
+                <id>Naming conventionsJava</id>
+              </State>
+              <State>
+                <id>Properties FilesJava</id>
+              </State>
+              <State>
+                <id>Serialization issuesJava</id>
+              </State>
+              <State>
+                <id>Verbose or redundant code constructsJava</id>
+              </State>
+              <State>
+                <id>Visibility issuesJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Less</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" />
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="E:/Users/Ahmed/AppData/Local/Android/sdk" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="Errors" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+          <method />
+        </configuration>
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

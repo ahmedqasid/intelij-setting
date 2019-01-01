@@ -1,0 +1,38 @@
+<templateSet group="_qasid">
+  <template name="booleanJSNISetter" value="public final native $returnType$ $methodName$()/*-{&#10;&#9;&#9;&#9;this.$methodName$ = true;&#10;            return this;&#10;        }-*/;&#10;public final native $returnType$ $methodName$(boolean $methodName$)/*-{&#10;&#9;&#9;&#9;this.$methodName$=$methodName$;&#10;            return this;&#10;        }-*/;&#10;public final native boolean is$END$$methodName$()/*-{&#10;&#9;&#9;&#9;return this.$methodName$;&#10;        }-*/;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="returnType" expression="className()" defaultValue="void" alwaysStopAt="true" />
+    <variable name="methodName" expression="" defaultValue="m" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="jsnibracket" value="/*-{&#10;    $END$&#10;}-*/;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="objectJSNI" value="public final native $className$ $methodName$($returnType$ $methodName$)/*-{&#10;&#9;&#9;&#9;this.$methodName$=$methodName$;&#10;            return this;&#10;        }-*/;&#10;public final native $returnType$ get$END$$methodName$()/*-{&#10;&#9;&#9;&#9;return this.$methodName$;&#10;        }-*/;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="methodName" expression="" defaultValue="m" alwaysStopAt="true" />
+    <variable name="returnType" expression="" defaultValue="String" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="wsRunner" value="return run(&quot;$methodName$&quot;,getImplementor()::$methodName$, $param$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="methodName" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="groovyScript(&quot;_1.get(0)&quot;,methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="noAuthinticationWSRunner" value="return runWithoutAuthentication(&quot;$methodName$&quot;,getImplementor()::$methodName$, $param$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="methodName" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="groovyScript(&quot;_1.get(0)&quot;,methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
