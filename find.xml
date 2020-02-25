@@ -13,5 +13,6 @@
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
