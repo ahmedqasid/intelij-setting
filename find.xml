@@ -11,8 +11,8 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>pom.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
