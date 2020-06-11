@@ -1,5 +1,8 @@
-<code_scheme name="Qasid">
+<code_scheme name="Qasid" version="173">
   <option name="RIGHT_MARGIN" value="150" />
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
+  </JavaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
