@@ -2,7 +2,6 @@
   <option name="RIGHT_MARGIN" value="150" />
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
-    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="5" />
   </JavaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
