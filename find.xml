@@ -14,5 +14,6 @@
     <mask>*.less</mask>
     <mask>pom.xml</mask>
     <mask>*.js</mask>
+    <mask>*postac*</mask>
   </component>
 </application>
