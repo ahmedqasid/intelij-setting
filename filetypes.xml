@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
       <mapping pattern="branchname" type="PLAIN_TEXT" />
-      <mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
