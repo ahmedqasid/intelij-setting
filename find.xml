@@ -15,7 +15,7 @@
     <mask>*postac*</mask>
     <mask>*DH.java</mask>
     <mask>*mig*.java</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
