@@ -5,7 +5,6 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
       <mapping pattern="branchname" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
