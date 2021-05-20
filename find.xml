@@ -3,6 +3,7 @@
     <option name="customScope" value="security" />
     <option name="defaultScopeName" value="security" />
     <option name="SEARCH_SCOPE" value="security" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
