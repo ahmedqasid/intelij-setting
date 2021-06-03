@@ -12,6 +12,10 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="ContextHelp" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+    <mouse-shortcut keystroke="shift button1" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
