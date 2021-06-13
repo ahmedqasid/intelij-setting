@@ -14,7 +14,7 @@
   <action id="ContextHelp" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
-    <mouse-shortcut keystroke="shift button1" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="EditorSelectWord" />
   <action id="FileStructurePopup">
