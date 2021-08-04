@@ -14,9 +14,9 @@
     <mask>*DH.java</mask>
     <mask>*mig*.java</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.sh</mask>
+    <mask>*.js</mask>
   </component>
 </application>
