@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Layout*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -21,5 +20,6 @@
     <mask>*.js</mask>
     <mask>*UI*</mask>
     <mask>*Layout*</mask>
+    <mask>cmn*</mask>
   </component>
 </application>
