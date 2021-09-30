@@ -18,5 +18,8 @@
     <mask>*.xml</mask>
     <mask>*.sh</mask>
     <mask>*.js</mask>
+    <mask>*UI*</mask>
+    <mask>*Layout*</mask>
+    <mask>cmn*</mask>
   </component>
 </application>
