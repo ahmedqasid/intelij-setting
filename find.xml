@@ -3,6 +3,7 @@
     <option name="customScope" value="Changes" />
     <option name="defaultScopeName" value="Changes" />
     <option name="SEARCH_SCOPE" value="Changes" />
+    <option name="FILE_MASK" value="*postac*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -10,7 +11,6 @@
     <mask>*.mxml</mask>
     <mask>*.less</mask>
     <mask>pom.xml</mask>
-    <mask>*postac*</mask>
     <mask>*DH.java</mask>
     <mask>*mig*.java</mask>
     <mask>*.html</mask>
@@ -21,5 +21,6 @@
     <mask>*UI*</mask>
     <mask>*Layout*</mask>
     <mask>cmn*</mask>
+    <mask>*postac*</mask>
   </component>
 </application>
