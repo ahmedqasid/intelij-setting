@@ -1,25 +1,25 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.jsp</mask>
+    <option name="customScope" value="Changes" />
+    <option name="defaultScopeName" value="Changes" />
+    <option name="SEARCH_SCOPE" value="Changes" />
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.less</mask>
     <mask>pom.xml</mask>
     <mask>*DH.java</mask>
     <mask>*mig*.java</mask>
-    <mask>*.html</mask>
-    <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.sh</mask>
-    <mask>*.js</mask>
     <mask>*UI*</mask>
     <mask>*Layout*</mask>
     <mask>cmn*</mask>
     <mask>*postac*</mask>
+    <mask>*.js</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
