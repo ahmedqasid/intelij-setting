@@ -1,12 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="cmd" type="Batch" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
       <mapping pattern="branchname" type="PLAIN_TEXT" />
+      <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
