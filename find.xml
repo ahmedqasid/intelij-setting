@@ -15,12 +15,12 @@
     <mask>*Layout*</mask>
     <mask>cmn*</mask>
     <mask>*postac*</mask>
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
