@@ -21,5 +21,6 @@
     <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.xtend</mask>
   </component>
 </application>
