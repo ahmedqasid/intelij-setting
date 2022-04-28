@@ -79,9 +79,6 @@
     </filter>
   </component>
   <component name="NodeRendererSettings">
-    <Renderer ID="ToStringRenderer">
-      <option name="ON_DEMAND" value="true" />
-    </Renderer>
     <Renderer ID="ClassRenderer">
       <option name="SHOW_OBJECT_ID" value="false" />
     </Renderer>

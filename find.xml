@@ -19,8 +19,8 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
-    <mask>*.java</mask>
     <mask>*.xtend</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
