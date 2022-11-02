@@ -23,5 +23,6 @@
     <mask>pom.xml</mask>
     <mask>*.js</mask>
     <mask>*act*</mask>
+    <mask>.groovy</mask>
   </component>
 </application>
