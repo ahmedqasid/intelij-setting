@@ -21,6 +21,10 @@
     <mask>*.xtend</mask>
     <mask>pom.xml</mask>
     <mask>*.js</mask>
+    <mask>*act*</mask>
+    <mask>.groovy</mask>
+    <mask>.js</mask>
+    <mask>.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
